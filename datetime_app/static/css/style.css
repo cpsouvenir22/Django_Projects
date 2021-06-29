@@ -1,0 +1,15 @@
+body{
+    background-image: url(kidrobot.jpg);
+}
+h1{
+    text-align: center;
+    color: cornsilk;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3{
+    text-align: center;
+    color: cornsilk;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
